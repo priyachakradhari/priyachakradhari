@@ -28,7 +28,7 @@
 
 **Data Analyst – Krishnav Tech**
 
-_2024 – Present_
+_Jul 2025 – Sep 09/2025_
 
 - Work with SQL Server, PySpark, and Azure Databricks to transform raw data into actionable insights.
 
@@ -42,7 +42,7 @@ _2024 – Present_
 
 **Data Analyst Intern – ELEVATE LABS**
 
-_2 months_
+_Jun 2025 - Jul 2025_
 
 - Built real-time dashboards and interactive visualizations that simplified performance tracking.
 
@@ -75,14 +75,111 @@ Certified via HackerRank, Kaggle, and other learning platforms in:
 - Machine Learning fundamentals  
 
 Actively practicing automation tools like **n8n** and **Make** to streamline workflows and build efficient, low-code automation pipelines.
-
 ---
 
-## Technical Toolkit  
-- Languages & Libraries: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL  
-- Visualization & BI: Power BI, Tableau, Advanced Excel  
-- Data Engineering: Databricks, PySpark, Azure Data Factory, Dimensional Modeling (Star/Snowflake), SCD types, ERDs  
-- Automation: n8n, Make (workflow automation)  
-- Strength: Simplifying messy datasets into clear insights and dashboards that people can actually use.  
+## 💻 Skills & Technologies  
+
+<table>
+  <!-- Languages -->
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+
+  <!-- Data Analysis Libraries -->
+  <tr>
+    <td><strong>Data Analysis Libraries</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
+    </td>
+  </tr>
+
+  <!-- Machine Learning -->
+  <tr>
+    <td><strong>Machine Learning</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/ML%20Algorithms-008080?style=flat" />
+    </td>
+  </tr>
+
+  <!-- Visualization & BI -->
+  <tr>
+    <td><strong>Visualization & BI Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+    </td>
+  </tr>
+
+  <!-- Data Engineering -->
+  <tr>
+    <td><strong>Data Engineering</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dimensional%20Modeling-0366D6?style=flat" />
+      <img src="https://img.shields.io/badge/SCD%20Types-5A5A5A?style=flat" />
+      <img src="https://img.shields.io/badge/ERDs-0052CC?style=flat" />
+      <img src="https://img.shields.io/badge/Fabric-000000?style=flat&logo=microsoftfabric&logoColor=white" />
+    </td>
+  </tr>
+
+  <!-- Automation -->
+  <tr>
+    <td><strong>Automation Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-EA4C89?style=flat&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Make-2F8FFF?style=flat&logo=make&logoColor=white" />
+    </td>
+  </tr>
+
+  <!-- Databases -->
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+    </td>
+  </tr>
+
+  <!-- Deployment -->
+  <tr>
+    <td><strong>Deployment</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 
 ---*  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ansh-1111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-1111&layout=compact&theme=radical" alt="Top Languages">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansh-1111&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-1111&theme=radical" alt="GitHub Streak">
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ansh-1111" alt="GitHub Trophies" />
+  </a>
+</p>
