@@ -8,6 +8,8 @@
 ---
 
 ## About Me  
+- B.E. in Computer Science (2021–2025) with a growing interest in data analytics and data science.
+  
 - Data science enthusiast with a foundation in Python, SQL, and analytics.
 
 - Experienced in cleaning and transforming data for exploratory analysis.
