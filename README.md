@@ -167,19 +167,24 @@ Actively practicing automation tools like **n8n** and **Make** to streamline wor
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ansh-1111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=priyachakradhari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-1111&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyachakradhari&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh-1111&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyachakradhari&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-1111&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyachakradhari&theme=radical" alt="GitHub Streak">
 </p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ansh-1111" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=priyachakradhari" alt="GitHub Trophies" />
   </a>
 </p>
+
