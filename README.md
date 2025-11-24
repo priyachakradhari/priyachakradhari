@@ -8,11 +8,17 @@
 ---
 
 ## About Me  
-I didn’t step into data analytics with all the answers—just one question:  
-**“What story is hidden in this dataset?”**  
+- Data science enthusiast with a foundation in Python, SQL, and analytics.
 
-That single thought took me from experimenting with Excel sheets to building pipelines in Azure Databricks, dashboards in Power BI, and workflow automations with AI tools.  
-For me, data isn’t just numbers—it’s patterns, stories, and the power to change decisions.  
+- Experienced in cleaning and transforming data for exploratory analysis.
+
+- Skilled in building dashboards and visual reports using Power BI and Excel.
+
+- Passionate about applying statistical methods and basic ML to real-world datasets.
+
+- Continuously learning, experimenting, and adding projects to my portfolio: [Priya’s Portfolio](https://priya-data-portfolio.vercel.app/)
+
+- Open to collaboration and feedback on analytics and data science projects.
 
 ---
 
