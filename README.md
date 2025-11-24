@@ -52,21 +52,31 @@ _2 months_
 
 - Strengthened practical skills in Power BI, Excel, and rapid data visualization workflows.
 
-**Virtual Job Simulations – Deloitte & Goldman Sachs**
+---
 
-_Completed_
+### Virtual Job Simulations – Deloitte & Goldman Sachs  
 
-- Deloitte: Performed data cleaning, modeling, and visualization as part of the Data Analytics job simulation.
+**Deloitte (Data Analytics):**  
+Performed data cleaning, modeling, and visualization. Built insights aligned with business requirements and presented findings clearly.
 
-- Goldman Sachs: Completed tasks related to data assessment, risk analysis, and structured problem-solving.
+**Goldman Sachs (Data Assessment & Risk Analysis):**  
+Worked on data quality checks, risk evaluation, and structured analytical problem-solving.
 
-- Demonstrated strong analytical approach, stakeholder-aligned communication, and accurate reporting.
+Demonstrated strong analytical reasoning, stakeholder-focused communication, and precise reporting across both simulations.
 
-**Certifications & Skill Practice**
+---
 
-- Certified through platforms like HackerRank and Kaggle across Python, SQL, EDA, and machine learning fundamentals.
+### Certifications & Skill Practice  
 
-- Continually expanding skills in automation tools like n8n and Make for workflow optimization.
+Certified via HackerRank, Kaggle, and other learning platforms in:  
+- Python  
+- SQL  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning fundamentals  
+
+Actively practicing automation tools like **n8n** and **Make** to streamline workflows and build efficient, low-code automation pipelines.
+
+---
 
 ## Technical Toolkit  
 - Languages & Libraries: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL  
@@ -75,18 +85,4 @@ _Completed_
 - Automation: n8n, Make (workflow automation)  
 - Strength: Simplifying messy datasets into clear insights and dashboards that people can actually use.  
 
----
-
-## What Drives Me  
-The real win for me isn’t just writing queries or models—it’s the moment when someone sees their data in a completely new light.  
-That’s when I know the work mattered.  
-
----
-
-
-### GitHub Stats
-
-![GitHub Skills & Stats](/mnt/data/d06544bf-a74c-4c96-ba76-d4f227ca1520.png)
-
-
-*"Numbers are everywhere, but insights are rare—my job is to uncover them."*  
+---*  
