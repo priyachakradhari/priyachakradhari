@@ -25,11 +25,48 @@
 ---
 
 ## Professional Snapshot  
-- Currently at **Krishnav Tech**: Working with SQL Server, PySpark, and Azure Databricks, turning raw data into insights that drive business moves.  
-- Past at **ELEVATE LABS**: Explored real-time data visualization, where I learned that a sharp dashboard can say more than a hundred-page report.  
-- Hands-on Experience: Job simulations with **Deloitte** and **Goldman Sachs**, plus certifications from HackerRank and Kaggle.  
 
----
+**Data Analyst – Krishnav Tech**
+
+_2024 – Present_
+
+- Work with SQL Server, PySpark, and Azure Databricks to transform raw data into actionable insights.
+
+- Build and optimize end-to-end data workflows, including ingestion, cleaning, transformation, and reporting.
+
+- Develop analytical datasets and visualizations that support internal decision-making and operational monitoring.
+
+- Implement data pipelines on Azure, ensuring reliability, scalability, and performance.
+
+- Collaborate with teams to translate business requirements into analytical solutions that deliver measurable outcomes.
+
+**Data Analyst Intern – ELEVATE LABS**
+
+_2 months_
+
+- Built real-time dashboards and interactive visualizations that simplified performance tracking.
+
+- Analyzed user, engagement, and operational datasets to uncover trends and insights.
+
+- Improved decision-making by designing dashboards that reduced manual reporting time.
+
+- Strengthened practical skills in Power BI, Excel, and rapid data visualization workflows.
+
+**Virtual Job Simulations – Deloitte & Goldman Sachs**
+
+_Completed_
+
+- Deloitte: Performed data cleaning, modeling, and visualization as part of the Data Analytics job simulation.
+
+- Goldman Sachs: Completed tasks related to data assessment, risk analysis, and structured problem-solving.
+
+- Demonstrated strong analytical approach, stakeholder-aligned communication, and accurate reporting.
+
+**Certifications & Skill Practice**
+
+- Certified through platforms like HackerRank and Kaggle across Python, SQL, EDA, and machine learning fundamentals.
+
+- Continually expanding skills in automation tools like n8n and Make for workflow optimization.
 
 ## Technical Toolkit  
 - Languages & Libraries: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL  
@@ -46,12 +83,10 @@ That’s when I know the work mattered.
 
 ---
 
-## Quick Links  
-- Projects Portfolio: [View Here](https://priyachakradhariportfolio.my.canva.site/freelance-freelance-website-in-grey-white-neon-yellow-classy-neons-style)  
-- Blogs: [Read Here](https://drive.google.com/file/d/1XgEEUsZbSBebnKNzT-Vcw4DhjD1Tlv3a/view)  
-- Resume: [Download Here](https://drive.google.com/file/d/12L_9of-OHaaFn7LIe9Rj17tOFpzY8i9D/view)  
-- Contact: **priyachakradhari4@gmail.com**  
 
----
+### GitHub Stats
+
+![GitHub Skills & Stats](/mnt/data/d06544bf-a74c-4c96-ba76-d4f227ca1520.png)
+
 
 *"Numbers are everywhere, but insights are rare—my job is to uncover them."*  
