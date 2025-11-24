@@ -2,8 +2,9 @@
 <h3 align="center">Passionate About Data | Curious Mind | Storyteller with Numbers</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyachakradhari&label=Profile%20views&color=0e75b6&style=flat" alt="priyachakradhari" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0D8ABC&center=true&vCenter=true&width=500&lines=Data+Analyst+to+Data+Scientist+Journey;Python+%7C+SQL+%7C+ML+Essentials;Exploring+AI+%26+GenAI+Systems;Turning+Curiosity+Into+Workflows">
 </p>
+
 
 ---
 
