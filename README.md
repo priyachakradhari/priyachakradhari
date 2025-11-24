@@ -75,6 +75,7 @@ Certified via HackerRank, Kaggle, and other learning platforms in:
 - Machine Learning fundamentals  
 
 Actively practicing automation tools like **n8n** and **Make** to streamline workflows and build efficient, low-code automation pipelines.
+
 ---
 
 ## 💻 Skills & Technologies  
