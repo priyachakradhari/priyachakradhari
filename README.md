@@ -10,19 +10,20 @@
 ---
 
 ## About Me  
-- B.Tech. in Computer Science (2021–2025) with a growing interest in data analytics and data science.
-  
-- Data science enthusiast with a foundation in Python, SQL, and analytics.
+- B.Tech in Computer Science (2021–2025), transitioning from data analysis into applied machine learning and AI engineering.
 
-- Experienced in cleaning and transforming data for exploratory analysis.
+- Strong foundation in Python, SQL, and data preprocessing, with hands-on experience turning raw data into features for ML models.
 
-- Skilled in building dashboards and visual reports using Power BI and Excel.
+- Actively building and deploying ML projects using supervised learning, basic deep learning concepts, and real-world datasets.
 
-- Passionate about applying statistical methods and ML/DL to real-world datasets.
+- Comfortable with exploratory data analysis, model evaluation, and experiment-driven improvement rather than just visualization.
 
-- Continuously learning, experimenting, and adding projects to my portfolio: [Priya’s Portfolio](https://priya-data-portfolio.vercel.app/)
+- Focused on learning how models move from notebooks to usable systems — pipelines, APIs, and deployment fundamentals.
 
-- Open to collaboration and feedback on analytics and data science projects.
+- Documenting my learning journey through projects and experiments here: [Priya’s Portfolio](https://priya-data-portfolio.vercel.app/)
+
+- Open to technical feedback, code reviews, and collaboration on ML-focused projects.
+
 
 ---
 
