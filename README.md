@@ -18,7 +18,7 @@
 
 - Skilled in building dashboards and visual reports using Power BI and Excel.
 
-- Passionate about applying statistical methods and basic ML to real-world datasets.
+- Passionate about applying statistical methods and ML/DL to real-world datasets.
 
 - Continuously learning, experimenting, and adding projects to my portfolio: [Priya’s Portfolio](https://priya-data-portfolio.vercel.app/)
 
