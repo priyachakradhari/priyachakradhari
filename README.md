@@ -2,7 +2,7 @@
 <h3 align="center">Passionate About Data | Curious Mind | Storyteller with Numbers</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F1C40F&center=true&vCenter=true&width=500&lines=Data+Analyst+to+Data+Scientist+Journey;Python+%7C+SQL+%7C+ML+Essentials;Exploring+AI+%26+GenAI+Systems;Turning+Curiosity+Into+Workflows">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F1C40F&center=true&vCenter=true&width=500&lines=Data+Analyst+to+AI+Engineer+Journey;Python+%7C+SQL+%7C+ML+Essentials;Exploring+AI+%26+GenAI+Systems;Turning+Curiosity+Into+Workflows">
 </p>
 
 
